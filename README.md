@@ -1,3 +1,7 @@
+# MariaPool
+
+This is a hard for of my_pool_sql, extending features and providing maintenance.
+
 This pool module is based on the pool code of mysql-simple-pool: https://github.com/Deathspike/mysql-simple-pool but uses Mariasql node module for better performance
 
 ### Instantiating a connection pool
